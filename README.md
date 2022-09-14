@@ -1,3 +1,3 @@
 # https://www.spiceworks.com/tech/devops/articles/software-developer-vs-software-engineer/
 
-- This article is interesting because it defines what software engineers and software developers are. It also differentiates the roles in these two position in a simple manner that is very readable and understandable.
+- This article defines what **software engineers** and **software developers** are. It also differentiates the roles in these two position in a simple manner that is very readable and understandable. I find it very interesting because initially I thought software developers and software engineers and very similar. However, this article shows that there are a variety of distinction between the titles.
